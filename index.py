@@ -7,3 +7,4 @@ class   Application(tk.Frame):
         master = tk.Tk()
         app = Application(master=master)
         app.mainloop()
+
